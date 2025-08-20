@@ -93,7 +93,7 @@ const Contact = () => {
                       <Image src={Logo1} alt="" />
                     </Link>
                   </div>
-                  <p>© {currentYear} OVRO. All Rights Reserved.</p>
+                  <p>© {currentYear} Nael 2025. All Rights Reserved.</p>
                 </div>
               </Col>
             </Row>

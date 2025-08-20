@@ -67,7 +67,7 @@ const SidebarPage = () => {
         </Link>
       </div>
       <div className="space30" />
-      <p>© {currentYear} OVRO. All Rights Reserved.</p>
+      <p>© {currentYear} Nael 2025. All Rights Reserved.</p>
     </>
   )
 }

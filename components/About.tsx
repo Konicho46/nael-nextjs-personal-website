@@ -48,10 +48,10 @@ const About = () => {
             <Row>
               <Col lg={12} data-aos="fade-left" data-aos-duration={1200}>
                 <div className="about-main-boxes">
-                  <h4>Alex Carry</h4>
+                  <h4>Nicholas Nathanael Suhendar</h4>
                   <div className="space24" />
                   <p>
-                    Hi, I’m Alex Carry, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize
+                    Hi, I’m Nicholas Nathanael Suhendar, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize
                     in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical
                     skills, I deliver solutions that not only look great but also function seamlessly.
                   </p>
