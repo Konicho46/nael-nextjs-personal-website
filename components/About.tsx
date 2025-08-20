@@ -81,9 +81,9 @@ const About = () => {
                 <div className="about-boxes2">
                   <Image src={Home4} alt="" />
                   <div className="content-area">
-                    <h4>Responsive Web Design</h4>
+                    <h4>System Analyst</h4>
                     <div className="space16" />
-                    <p>Crafting designs adapt seamlessly across all devices ensuring and a consistent user experience.</p>
+                    <p>Bridging business requirements and technical solutions to ensure effective, user-centered systems.</p>
                   </div>
                 </div>
               </Col>
@@ -102,51 +102,73 @@ const About = () => {
                 <h3>Work Experience</h3>
                 <div className="space32" />
                 <div className="about-others-box" data-aos="zoom-in" data-aos-duration={900}>
-                  <Link href="">2015-2020</Link>
+                  <Link href="">July 2024 - December 2025</Link>
                   <div className="space16" />
                   <h4>
-                    <Link href="">UI/UX Designer</Link>
+                    <Link href="">Intern UI/UX Designer </Link>
                   </h4>
                   <div className="space16" />
-                  <p>Creative Spark Agency</p>
+                  <p>IGB Media</p>
+
                   <div className="space32" />
-                  <Link href="">2020 - Present</Link>
+                  
+                  <Link href="">December 2025 - July 2025</Link>
                   <div className="space16" />
                   <h4>
-                    <Link href="">Senior UI/UX Designer </Link>
+                    <Link href="">Part-Timer UI/UX Designer </Link>
                   </h4>
                   <div className="space16" />
-                  <p>Visionary Tech</p>
+                  <p>IGB Media</p>
+
+                  <div className="space32" />
+                  
+                  <Link href="">July 2025 - Present</Link>
+                  <div className="space16" />
+                  <h4>
+                    <Link href="">Freelance Web Content Administrator</Link>
+                  </h4>
+                  <div className="space16" />
+                  <p>IGB Media</p>
+
+                  <div className="space32" />
+                  
+                  <Link href="">August 2025 - Present</Link>
+                  <div className="space16" />
+                  <h4>
+                    <Link href="">Intern UI/UX Designer</Link>
+                  </h4>
+                  <div className="space16" />
+                  <p>PT. Genesys Integrated Indonesia</p>
                 </div>
                 <div className="about-others-box text-center" data-aos="zoom-in" data-aos-duration={1000}>
                   <h4>Stay With Me </h4>
                   <div className="space18" />
                   <ul>
-                    <li>
+                    {/* <li>
                       <Link href="">
                         <Image src={Sicon1} alt="" />
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
-                      <Link href="">
+                      <Link href="https://www.instagram.com/konicho.46">
                         <Image src={Sicon2} alt="" />
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link href="">
                         <Image src={Sicon3} alt="" />
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
-                      <Link href="">
+                      <Link href="https://www.linkedin.com/in/nicholassuhendar/">
                         <Image src={Sicon4} alt="" />
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link href="" className="m-0">
                         <Image src={Sicon5} alt="" />
                       </Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </Col>
@@ -154,21 +176,23 @@ const About = () => {
                 <h3>Education</h3>
                 <div className="space32" />
                 <div className="about-others-box" data-aos="zoom-in" data-aos-duration={1100}>
-                  <Link href="">2010 - 2013</Link>
+                  <Link href="">2018 - 2021</Link>
                   <div className="space16" />
                   <h4>
-                    <Link href="">Bachelor's Degree in Graphic Design</Link>
+                    <Link href="">Social Science</Link>
                   </h4>
                   <div className="space16" />
-                  <p>University of California</p>
+                  <p>Pembangunan Jaya 2 Senior High School</p>
                   <div className="space32" />
-                  <Link href="">2013 - 2015</Link>
+                  <Link href="">2021 - 2025</Link>
+
                   <div className="space16" />
+
                   <h4>
-                    <Link href="">Master's Degree in User Experience Design</Link>
+                    <Link href="">Bachelor's Degree in Business Information System</Link>
                   </h4>
                   <div className="space16" />
-                  <p>Massachusetts Institute of Technology (MIT)</p>
+                  <p>Petra Christian University (PCU)</p>
                 </div>
               </Col>
               <div className="space20" />

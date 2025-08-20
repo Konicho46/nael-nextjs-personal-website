@@ -54,9 +54,9 @@ const Service = () => {
                   <div className="space30" />
                   <div className="div" data-aos="fade-left" data-aos-duration={1100}>
                     <div className="service-main-boxes">
-                      <h4>Responsive Web Design</h4>
+                      <h4>System Analyst</h4>
                       <div className="space24" />
-                      <p>Crafting designs that adapt seamlessly across all devices, ensuring a consistent user experience.</p>
+                      <p>Bridging business requirements and technical solutions to ensure effective, user-centered systems.</p>
                     </div>
                   </div>
                   <div className="space30" />

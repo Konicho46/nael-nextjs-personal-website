@@ -29,36 +29,36 @@ const SidebarPage = () => {
         <Image className="w-100" src={Hero} alt="image" />
       </div>
       <div className="space18" />
-      <h3>Alex Carry</h3>
+      <h3>Nicholas Nathanael S.</h3>
       <div className="space16" />
-      <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences.</p>
+      <p>Hi, I’m Nael, a dedicated UI/UX Designer and System Analyst with 1+ years of experience creating meaningful digital experiences.</p>
       <div className="space32" />
       <ul>
-        <li>
+        {/* <li>
           <Link href="">
             <Image src={Sicon1} alt="" />
           </Link>
-        </li>
+        </li> */}
         <li>
-          <Link href="">
+          <Link href="https://www.instagram.com/konicho.46">
             <Image src={Sicon2} alt="" />
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="">
             <Image src={Sicon3} alt="" />
           </Link>
-        </li>
+        </li> */}
         <li>
-          <Link href="">
+          <Link href="https://www.linkedin.com/in/nicholassuhendar/">
             <Image src={Sicon4} alt="" />
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="" className="m-0">
             <Image src={Sicon5} alt="" />
           </Link>
-        </li>
+        </li> */}
       </ul>
       <div className="space44" />
       <div className="btn-area1 text-center">

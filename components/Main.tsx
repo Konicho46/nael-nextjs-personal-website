@@ -25,7 +25,7 @@ const Main = () => {
         <div className="hero-heading-area heading1">
           <h5 data-aos="fade-left" data-aos-duration={800}>
             <Image src={Sublogo1} alt="" />
-            Hi, I’m Alex, UI/UX Designer
+            Hi, I’m Nael, UI/UX Designer and System Analyst
           </h5>
           <div className="space24" />
           <h1 data-aos="fade-left" data-aos-duration={900}>
@@ -53,7 +53,7 @@ const Main = () => {
           </div>
           <div className="space32" />
           <div className="main-btn-area" data-aos="fade-up" data-aos-duration={1200}>
-            <Link href="">
+            <Link href="https://www.linkedin.com/in/nicholassuhendar/">
               Lets Work Together
               <span>
                 <FaArrowRight className="fa-solid" />
